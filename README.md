@@ -3,9 +3,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LSH9832&layout=compact&locale=cn)
 
 
-自2025-3-9以来访问数: ![](https://profile-counter.glitch.me/LSH9832/count.svg)
-
-
 <table>
 <tr>
 <td valign="top" width="33%">
